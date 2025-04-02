@@ -391,7 +391,7 @@ class AnthropicService {
     ///   - requestBody: Request body
     ///   - retryCount: Current retry count
     ///   - completion: Callback with the result
-    private func callAnthropicAPIWithRetry(
+    func callAnthropicAPIWithRetry(
         endpoint: String,
         requestBody: [String: Any],
         retryCount: Int,
@@ -426,7 +426,7 @@ class AnthropicService {
     /// - Parameters:
     ///   - endpoint: API endpoint
     ///   - requestBody: Request body
-    private func callAnthropicStreamingAPI(
+    func callAnthropicStreamingAPI(
         endpoint: String,
         requestBody: [String: Any]
     ) {
