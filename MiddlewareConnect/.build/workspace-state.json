@@ -1,0 +1,47 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "alamofire",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/Alamofire/Alamofire.git",
+          "name" : "Alamofire"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+            "version" : "5.10.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Alamofire"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "keychainaccess",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+          "name" : "KeychainAccess"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+            "version" : "4.2.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "KeychainAccess"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
