@@ -1,0 +1,8 @@
+IMPORTANT: The following color assets must be renamed:
+- PrimaryColor => AppPrimaryColor
+- SecondaryColor => AppSecondaryColor
+
+The original asset files have been deleted and replaced with new ones 
+with the "App" prefix to avoid conflicts with SwiftUI's built-in colors.
+
+These changes should be applied in the Xcode asset catalog.
