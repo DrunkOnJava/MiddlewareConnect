@@ -1,0 +1,4 @@
+module MiddlewareConnect {
+    header "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MiddlewareConnect-Swift.h"
+    requires objc
+}

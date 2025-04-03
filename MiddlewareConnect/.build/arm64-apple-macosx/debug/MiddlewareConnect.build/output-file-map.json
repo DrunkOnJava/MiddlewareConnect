@@ -1,0 +1,1115 @@
+{
+  "": {
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/master.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AccessibilityExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AccessibilityHelper.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityHelper.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityHelper.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityHelper.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AccessibilityWrapper.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityWrapper.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityWrapper.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AccessibilityWrapper.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AlertModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AlertModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AlertModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AlertModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AlertModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AnalysisTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AnalysisView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnalysisView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Animation.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Animation.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Animation.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Animation~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Animation.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AnimationHelper.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnimationHelper.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnimationHelper.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnimationHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnimationHelper.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AnthropicService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnthropicService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnthropicService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnthropicService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AnthropicService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiKeyProtocolImports.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyProtocolImports.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyProtocolImports.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyProtocolImports~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyProtocolImports.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiKeyStorageService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyStorageService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyStorageService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyStorageService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiKeyStorageService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiSettings.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettings.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettings.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettings~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettings.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiSettingsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettingsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettingsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiSettingsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ApiValidationResult.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiValidationResult.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiValidationResult.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiValidationResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ApiValidationResult.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AppDelegate.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDelegate.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDelegate.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AppDesignSystem.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDesignSystem.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDesignSystem.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDesignSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppDesignSystem.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AppMainContentView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppMainContentView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppMainContentView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppMainContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppMainContentView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AppState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/AppTab.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppTab.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppTab.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppTab~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/AppTab.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/BGTaskRequests.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BGTaskRequests.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BGTaskRequests.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BGTaskRequests~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BGTaskRequests.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/BackgroundTaskService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/BackgroundTaskStatusView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskStatusView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskStatusView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskStatusView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BackgroundTaskStatusView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/BatchProcessorView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BatchProcessorView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BatchProcessorView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BatchProcessorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BatchProcessorView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/BenchmarkView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BenchmarkView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BenchmarkView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BenchmarkView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/BenchmarkView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Button.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Button.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Button.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Button~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Button.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonComponents.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonComponents.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonComponents.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonComponents.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonPreview.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonPreview.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonPreview.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonPreview~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonPreview.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonSize.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonSize.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonSize.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonSize~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonSize.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ButtonStyle.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonStyle.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonStyle.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ButtonStyle.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CachingManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CachingService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CachingSettingsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingSettingsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingSettingsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CachingSettingsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Card.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Card.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Card.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Card~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Card.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardContent.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardContent.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardContent.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardContent.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardViewPreview.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewPreview.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewPreview.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewPreview~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewPreview.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardViewState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CardViewStyle.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewStyle.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewStyle.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CardViewStyle.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatBubbleView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatBubbleView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatBubbleView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatBubbleView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatBubbleView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatConversation.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatConversation.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatConversation.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatConversation~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatConversation.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatDataProvider.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatDataProvider.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatDataProvider.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatDataProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatDataProvider.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ChatViewModel.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatViewModel.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatViewModel.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ChatViewModel.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Claude3Model.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Claude3Model.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Claude3Model.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Claude3Model~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Claude3Model.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CloudStorageManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CloudStorageManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CloudStorageManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CloudStorageManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CloudStorageManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Colors.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Colors.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Colors.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Colors~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Colors.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ComparisonMetric.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonMetric.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonMetric.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonMetric~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonMetric.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ComparisonResult.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonResult.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonResult.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ComparisonResult.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ContentView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ContentView_Final.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView_Final.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView_Final.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView_Final~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContentView_Final.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ContextWindow.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindow.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindow.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindow.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ContextWindowVisualizerView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindowVisualizerView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindowVisualizerView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindowVisualizerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ContextWindowVisualizerView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Conversation.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Conversation.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Conversation.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Conversation~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Conversation.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ConversationRepository.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationRepository.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationRepository.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationRepository.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ConversationView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ConversationViewModel.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationViewModel.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationViewModel.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationViewModel.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ConversationsListView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsListView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsListView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsListView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ConversationsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ConversationsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CsvFormatterView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CsvFormatterView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CsvFormatterView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CsvFormatterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CsvFormatterView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CustomButton.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomButton.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomButton.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomButton.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/CustomTextField.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomTextField.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomTextField.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomTextField~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/CustomTextField.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DataFormattingShortcuts.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataFormattingShortcuts.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataFormattingShortcuts.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataFormattingShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataFormattingShortcuts.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DataProviderProtocol.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataProviderProtocol.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataProviderProtocol.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataProviderProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DataProviderProtocol.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DatabaseService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DatabaseService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DatabaseService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DatabaseService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DatabaseService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DesignSystem+Extensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem+Extensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem+Extensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem+Extensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DesignSystem.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DesignSystem.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DeviceUtils.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DeviceUtils.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DeviceUtils.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DeviceUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DeviceUtils.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DocumentAnalysisView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalysisView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalysisView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalysisView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalysisView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DocumentAnalyzer.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalyzer.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalyzer.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalyzer~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentAnalyzer.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DocumentPicker.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentPicker.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentPicker.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentPicker~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentPicker.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DocumentSummarizer.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizer.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizer.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizer.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/DocumentSummarizerView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizerView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizerView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/DocumentSummarizerView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/EffectModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EffectModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EffectModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EffectModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EffectModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/EnhancedDocumentPicker.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedDocumentPicker.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedDocumentPicker.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedDocumentPicker~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedDocumentPicker.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/EnhancedToolsTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedToolsTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedToolsTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedToolsTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EnhancedToolsTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/EntitiesView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntitiesView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntitiesView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntitiesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntitiesView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/EntityExtractor.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntityExtractor.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntityExtractor.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntityExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/EntityExtractor.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ErrorHandlingService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ErrorHandlingService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ErrorHandlingService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ErrorHandlingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ErrorHandlingService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ExportImportManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ExportImportManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ExportImportManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ExportImportManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ExportImportManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/FieldState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/FieldStateHelpers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldStateHelpers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldStateHelpers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldStateHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FieldStateHelpers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/FileManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FileManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FileManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FileManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/FileManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Haptics.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Haptics.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Haptics.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Haptics~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Haptics.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/HomeTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/HomeTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/HomeTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/HomeTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/HomeTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ImageCachingService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageCachingService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageCachingService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageCachingService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageCachingService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ImageSplitterView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageSplitterView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageSplitterView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageSplitterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImageSplitterView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ImportExportToolView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExportToolView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExportToolView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExportToolView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExportToolView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ImportExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ImportExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Imports.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Imports.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Imports.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Imports~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Imports.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/JSONFormatterView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/JSONFormatterView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/JSONFormatterView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/JSONFormatterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/JSONFormatterView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/KeychainService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/KeychainService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/KeychainService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/KeychainService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/KeychainService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMAnalysisShortcuts.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMAnalysisShortcuts.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMAnalysisShortcuts.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMAnalysisShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMAnalysisShortcuts.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMBuddy.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMBuddyModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddyModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddyModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddyModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddyModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMBuddy_iOS.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy_iOS.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy_iOS.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy_iOS~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMBuddy_iOS.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMChatMessage.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMChatMessage.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMChatMessage.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMChatMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMChatMessage.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMModel.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModel.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModel.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModel.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMModelExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModelExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModelExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModelExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModelExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LLMServiceProvider.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMServiceProvider.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMServiceProvider.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMServiceProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LLMServiceProvider.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ListItem.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ListItem.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ListItem.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ListItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ListItem.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/LoadingStateManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LoadingStateManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LoadingStateManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LoadingStateManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/LoadingStateManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MainAppView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainAppView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainAppView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainAppView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainAppView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MainContentView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainContentView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainContentView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainContentView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MainTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MainTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MarkdownConverterView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MarkdownConverterView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MarkdownConverterView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MarkdownConverterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MarkdownConverterView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MemoryManager+Extensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager+Extensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager+Extensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager+Extensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MemoryManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MemoryManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/MiddlewareConnectApp.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MiddlewareConnectApp.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MiddlewareConnectApp.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MiddlewareConnectApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/MiddlewareConnectApp.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ModelComparisonView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ModelComparisonViewModel.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonViewModel.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonViewModel.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelComparisonViewModel.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ModelSettingsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelSettingsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelSettingsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModelSettingsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Models.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Models.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Models.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Models.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ModuleImports.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModuleImports.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModuleImports.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModuleImports~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ModuleImports.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/NavigationCoordinator.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NavigationCoordinator.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NavigationCoordinator.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NavigationCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NavigationCoordinator.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/NotificationExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NotificationExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NotificationExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NotificationExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/NotificationExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFCombiner.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombiner.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombiner.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombiner.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFCombinerViewState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombinerViewState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombinerViewState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombinerViewState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFCombinerViewState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFPreviewView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFPreviewView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFPreviewView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFPreviewView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFPreviewView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFService+Shared.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService+Shared.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService+Shared.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService+Shared~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService+Shared.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFService.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFService.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFServiceProtocol.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFServiceProtocol.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFServiceProtocol.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFServiceProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFServiceProtocol.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFShortcuts.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFShortcuts.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFShortcuts.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFShortcuts.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PDFViewState.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFViewState.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFViewState.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFViewState~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PDFViewState.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Package.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Package.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Package.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Package~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Package.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PdfCombinerView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfCombinerView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfCombinerView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfCombinerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfCombinerView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PdfSplitterView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfSplitterView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfSplitterView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfSplitterView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PdfSplitterView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PlaceholderModifier.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderModifier.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderModifier.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderModifier.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PlaceholderView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PlaceholderView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PreferencesRepository.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PreferencesRepository.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PreferencesRepository.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PreferencesRepository~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PreferencesRepository.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ProcessingStatus.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ProcessingStatus.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ProcessingStatus.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ProcessingStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ProcessingStatus.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PromptBuilder.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptBuilder.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptBuilder.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptBuilder.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PromptTemplate.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplate.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplate.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplate~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplate.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/PromptTemplatesView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplatesView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplatesView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplatesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/PromptTemplatesView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Provider.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Provider.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Provider.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Provider.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Radius.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Radius.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Radius.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Radius~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Radius.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SettingsTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SettingsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SettingsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Shadows.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Shadows.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Shadows.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Shadows~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Shadows.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ShareExtensionManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShareExtensionManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShareExtensionManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShareExtensionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShareExtensionManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ShortcutProtocols.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutProtocols.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutProtocols.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutProtocols.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ShortcutsManager.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutsManager.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutsManager.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutsManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ShortcutsManager.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SidebarView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SidebarView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SidebarView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SidebarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SidebarView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SimpleLogger.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SimpleLogger.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SimpleLogger.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SimpleLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SimpleLogger.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Spacing.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Spacing.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Spacing.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Spacing~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Spacing.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SplitStrategySelector.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SplitStrategySelector.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SplitStrategySelector.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SplitStrategySelector~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SplitStrategySelector.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/StreamingResponseView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/StreamingResponseView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/StreamingResponseView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/StreamingResponseView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/StreamingResponseView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SummaryLength.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryLength.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryLength.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryLength~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryLength.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SummaryView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SummaryView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/SystemPrompts.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SystemPrompts.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SystemPrompts.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SystemPrompts~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/SystemPrompts.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Tab.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Tab.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Tab.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Tab~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Tab.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TabBarModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabBarModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabBarModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabBarModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabBarModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TabModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TabModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextChunker.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunker.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunker.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunker~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunker.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextChunkerView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunkerView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunkerView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunkerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextChunkerView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextCleanerView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextCleanerView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextCleanerView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextCleanerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextCleanerView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextFieldComponents.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldComponents.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldComponents.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldComponents.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextFieldModifiers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldModifiers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldModifiers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldModifiers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextFieldPreview.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldPreview.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldPreview.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldPreview~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextFieldPreview.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TextProcessingShortcuts.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextProcessingShortcuts.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextProcessingShortcuts.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextProcessingShortcuts~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TextProcessingShortcuts.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Theme.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Theme.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Theme.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Theme.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ThemeSettingsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ThemeSettingsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ThemeSettingsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ThemeSettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ThemeSettingsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TokenCostCalculatorView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCostCalculatorView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCostCalculatorView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCostCalculatorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCostCalculatorView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TokenCounter.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCounter.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCounter.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCounter~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TokenCounter.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ToolModels.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolModels.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolModels.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolModels.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ToolsTabView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsTabView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsTabView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsTabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsTabView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ToolsView.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsView.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsView.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ToolsView.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/TypeAliases.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TypeAliases.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TypeAliases.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TypeAliases~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/TypeAliases.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/Typography.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Typography.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Typography.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Typography~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/Typography.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/UIConstants.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIConstants.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIConstants.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIConstants.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/UIExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UIExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/UserDefaultsExtensions.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UserDefaultsExtensions.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UserDefaultsExtensions.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UserDefaultsExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/UserDefaultsExtensions.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/VariableInputField.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/VariableInputField.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/VariableInputField.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/VariableInputField~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/VariableInputField.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/View+ErrorAlert.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/View+ErrorAlert.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/View+ErrorAlert.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/View+ErrorAlert~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/View+ErrorAlert.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ViewFactory.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewFactory.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewFactory.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewFactory.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ViewHelpers.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewHelpers.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewHelpers.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewHelpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewHelpers.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/ViewsImport.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewsImport.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewsImport.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewsImport~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/ViewsImport.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/WidgetProvider.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/WidgetProvider.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/WidgetProvider.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/WidgetProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/WidgetProvider.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/checkSyntax.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/checkSyntax.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/checkSyntax.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/checkSyntax~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/checkSyntax.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Sources/MiddlewareConnect/update_project.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/update_project.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/update_project.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/update_project~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnect.build/update_project.swiftdeps"
+  }
+}

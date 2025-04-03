@@ -1,0 +1,5 @@
+framework module LLMServiceProvider {
+    umbrella header "LLMServiceProvider.h"
+    export *
+    module * { export * }
+}

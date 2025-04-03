@@ -1,0 +1,5 @@
+framework module PdfSplitterView {
+    umbrella header "PdfSplitterView.h"
+    export *
+    module * { export * }
+}

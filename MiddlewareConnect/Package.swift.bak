@@ -1,0 +1,27 @@
+// swift-tools-version:5.5
+import PackageDescription
+
+let package = Package(
+    name: "MiddlewareConnect",
+    platforms: [
+        .iOS(.v13),
+        .macOS(.v10_15)
+    ],
+    products: [
+        .library(
+            name: "MiddlewareConnect",
+            targets: ["MiddlewareConnect"]),
+    ],
+    dependencies: [
+        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.0"),
+        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess.git", from: "4.2.0"),
+    ],
+    targets: [
+        .target(
+            name: "MiddlewareConnect",
+            dependencies: ["Alamofire", "KeychainAccess"]),
+        .testTarget(
+            name: "MiddlewareConnectTests",
+            dependencies: ["MiddlewareConnect"])
+    ]
+)

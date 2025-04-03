@@ -1,0 +1,5 @@
+framework module ModelComparisonView {
+    umbrella header "ModelComparisonView.h"
+    export *
+    module * { export * }
+}

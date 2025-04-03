@@ -1,0 +1,135 @@
+/**
+ * @fileoverview API feature toggles model
+ * @module Models
+ * 
+ * Created: 2025-03-30
+ * Last Modified: 2025-04-02
+ * 
+ * Dependencies:
+ * - Foundation
+ * 
+ * Exports:
+ * - ApiFeatureToggles struct
+ * 
+ * Notes:
+ * - Manages feature flags for API-dependent functionality
+ */
+
+import Foundation
+
+/// Toggles for API-dependent features
+public struct ApiFeatureToggles: Codable, Equatable {
+    /// Enable streaming responses
+    public var enableStreaming: Bool = true
+    
+    /// Enable vision capabilities
+    public var enableVision: Bool = false
+    
+    /// Enable system prompts
+    public var enableSystemPrompt: Bool = true
+    
+    /// Enable temperature adjustments
+    public var enableTemperature: Bool = true
+    
+    /// Enable customization
+    public var enableCustomization: Bool = true
+    
+    /// Enable function calling
+    public var enableFunctionCalling: Bool = false
+    
+    /// Enable tool use
+    public var enableTools: Bool = false
+    
+    /// OCR transcription feature
+    public var ocrTranscription: Bool = false
+    
+    /// Intelligent naming feature
+    public var intelligentNaming: Bool = false
+    
+    /// Markdown converter feature
+    public var markdownConverter: Bool = false
+    
+    /// Document summarization feature
+    public var documentSummarization: Bool = false
+    
+    /// Initialize with default values
+    public init(
+        enableStreaming: Bool = true,
+        enableVision: Bool = false,
+        enableSystemPrompt: Bool = true,
+        enableTemperature: Bool = true,
+        enableCustomization: Bool = true,
+        enableFunctionCalling: Bool = false,
+        enableTools: Bool = false,
+        ocrTranscription: Bool = false,
+        intelligentNaming: Bool = false,
+        markdownConverter: Bool = false,
+        documentSummarization: Bool = false
+    ) {
+        self.enableStreaming = enableStreaming
+        self.enableVision = enableVision
+        self.enableSystemPrompt = enableSystemPrompt
+        self.enableTemperature = enableTemperature
+        self.enableCustomization = enableCustomization
+        self.enableFunctionCalling = enableFunctionCalling
+        self.enableTools = enableTools
+        self.ocrTranscription = ocrTranscription
+        self.intelligentNaming = intelligentNaming
+        self.markdownConverter = markdownConverter
+        self.documentSummarization = documentSummarization
+    }
+    
+    /// Default toggles with standard settings
+    public static var defaultToggles: ApiFeatureToggles {
+        return ApiFeatureToggles()
+    }
+    
+    // MARK: - Codable Conformance
+    
+    /// Coding keys for Codable conformance
+    enum CodingKeys: String, CodingKey {
+        case enableStreaming
+        case enableVision
+        case enableSystemPrompt
+        case enableTemperature
+        case enableCustomization
+        case enableFunctionCalling
+        case enableTools
+        case ocrTranscription
+        case intelligentNaming
+        case markdownConverter
+        case documentSummarization
+    }
+    
+    /// Encode to an encoder
+    public func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+        try container.encode(enableStreaming, forKey: .enableStreaming)
+        try container.encode(enableVision, forKey: .enableVision)
+        try container.encode(enableSystemPrompt, forKey: .enableSystemPrompt)
+        try container.encode(enableTemperature, forKey: .enableTemperature)
+        try container.encode(enableCustomization, forKey: .enableCustomization)
+        try container.encode(enableFunctionCalling, forKey: .enableFunctionCalling)
+        try container.encode(enableTools, forKey: .enableTools)
+        try container.encode(ocrTranscription, forKey: .ocrTranscription)
+        try container.encode(intelligentNaming, forKey: .intelligentNaming)
+        try container.encode(markdownConverter, forKey: .markdownConverter)
+        try container.encode(documentSummarization, forKey: .documentSummarization)
+    }
+    
+    /// Initialize from a decoder
+    public init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        enableStreaming = try container.decodeIfPresent(Bool.self, forKey: .enableStreaming) ?? true
+        enableVision = try container.decodeIfPresent(Bool.self, forKey: .enableVision) ?? false
+        enableSystemPrompt = try container.decodeIfPresent(Bool.self, forKey: .enableSystemPrompt) ?? true
+        enableTemperature = try container.decodeIfPresent(Bool.self, forKey: .enableTemperature) ?? true
+        enableCustomization = try container.decodeIfPresent(Bool.self, forKey: .enableCustomization) ?? true
+        enableFunctionCalling = try container.decodeIfPresent(Bool.self, forKey: .enableFunctionCalling) ?? false
+        enableTools = try container.decodeIfPresent(Bool.self, forKey: .enableTools) ?? false
+        ocrTranscription = try container.decodeIfPresent(Bool.self, forKey: .ocrTranscription) ?? false
+        intelligentNaming = try container.decodeIfPresent(Bool.self, forKey: .intelligentNaming) ?? false
+        markdownConverter = try container.decodeIfPresent(Bool.self, forKey: .markdownConverter) ?? false
+        documentSummarization = try container.decodeIfPresent(Bool.self, forKey: .documentSummarization) ?? false
+    }
+}

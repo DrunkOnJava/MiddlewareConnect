@@ -1,0 +1,4 @@
+module MiddlewareConnectPackageTests {
+    header "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectPackageTests.build/MiddlewareConnectPackageTests-Swift.h"
+    requires objc
+}

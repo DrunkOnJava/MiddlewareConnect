@@ -117,3 +117,6 @@ LLMBuddy-iOS/
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
+sync_log.txt
+sync_error.log
+sync_output.log

@@ -11,6 +11,9 @@ import UIKit
 // Add additional imports needed for caching-related services
 import PDFKit
 
+// Import for PDFService - we'll use reflection techniques to access its caching functionality
+// This avoids direct dependencies on internal implementation details
+
 // Define our own CacheType to avoid conflicts
 enum CacheManagerType {
     case api
@@ -19,10 +22,14 @@ enum CacheManagerType {
     case all
 }
 
-/// Define a protocol instead of referencing the deprecated class
-protocol LLMServiceProvider {
+/// Define a protocol for services that support caching
+protocol CacheableService {
     func setCachingEnabled(_ enabled: Bool)
+    func clearCache()
 }
+
+/// Define a protocol instead of referencing the deprecated class
+protocol LLMServiceProvider: CacheableService {}
 
 /// Manager for coordinating all caching services in the app
 class CachingManager {
@@ -100,7 +107,7 @@ class CachingManager {
             cachingService.clearCache(type: .api)
         case .pdf:
             // Clear PDF cache
-            pdfService.clearCache()
+            clearPDFCache()
         case .image:
             // Clear image cache
             imageCachingService.clearImageCache()
@@ -134,10 +141,67 @@ class CachingManager {
         }
         
         // Update PDF service
-        pdfService.setCachingEnabled(cachingEnabled)
+        setPDFCachingEnabled(cachingEnabled)
         
         // Update image service using direct property access
         imageCachingService.cachingEnabled = cachingEnabled
+    }
+}
+
+// MARK: - PDF Service Extensions
+
+extension CachingManager {
+    /// Clear the PDF cache by accessing NSCache properties directly
+    private func clearPDFCache() {
+        // Access the in-memory cache via a mirror if possible
+        let mirror = Mirror(reflecting: pdfService)
+        
+        for child in mirror.children {
+            if let cacheProperty = child.value as? NSCache<AnyObject, AnyObject> {
+                cacheProperty.removeAllObjects()
+            }
+        }
+        
+        // Clear the disk cache directory
+        do {
+            // First, try to find the cache directory via reflection
+            var cacheDirectory: URL? = nil
+            
+            let cacheDirPath = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask).first!.appendingPathComponent("PDFService", isDirectory: true)
+            
+            if FileManager.default.fileExists(atPath: cacheDirPath.path) {
+                cacheDirectory = cacheDirPath
+            }
+            
+            if let directory = cacheDirectory {
+                let fileURLs = try FileManager.default.contentsOfDirectory(
+                    at: directory,
+                    includingPropertiesForKeys: nil,
+                    options: .skipsHiddenFiles
+                )
+                
+                for fileURL in fileURLs {
+                    try FileManager.default.removeItem(at: fileURL)
+                }
+                print("PDF cache cleared")
+            }
+        } catch {
+            print("Error clearing PDF cache: \(error.localizedDescription)")
+        }
+    }
+    
+    /// Enable or disable PDF caching by setting the appropriate UserDefault
+    /// - Parameter enabled: Whether caching should be enabled
+    private func setPDFCachingEnabled(_ enabled: Bool) {
+        // Set the standard UserDefaults key that PDFService uses
+        UserDefaults.standard.set(enabled, forKey: "PDFService.cachingEnabled")
+        
+        // Clear the cache if disabling
+        if !enabled {
+            clearPDFCache()
+        }
+        
+        print("PDF caching \(enabled ? "enabled" : "disabled")")
     }
 }
 

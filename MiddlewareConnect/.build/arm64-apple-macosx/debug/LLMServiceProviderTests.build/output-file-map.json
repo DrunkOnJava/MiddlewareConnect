@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/master.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Tests/LLMServiceProviderTests/LLMServiceProviderTests.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/LLMServiceProviderTests.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/LLMServiceProviderTests.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/LLMServiceProviderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/LLMServiceProviderTests.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Tests/LLMServiceProviderTests/TextChunkerTests.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TextChunkerTests.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TextChunkerTests.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TextChunkerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TextChunkerTests.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Tests/LLMServiceProviderTests/TokenCounterTests.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TokenCounterTests.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TokenCounterTests.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TokenCounterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/LLMServiceProviderTests.build/TokenCounterTests.swiftdeps"
+  }
+}

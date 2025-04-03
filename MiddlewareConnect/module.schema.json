@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "modules": {
+      "type": "object",
+      "properties": {
+        "LLMServiceProvider": {
+          "type": "object",
+          "properties": {
+            "dependencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": []
+            },
+            "exports": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": [
+                "LLMServiceProvider.swift",
+                "Models/Claude3Model.swift",
+                "Services/TokenCounter.swift",
+                "Services/TextChunker.swift"
+              ]
+            }
+          }
+        },
+        "ModelComparisonView": {
+          "type": "object",
+          "properties": {
+            "dependencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": ["LLMServiceProvider"]
+            },
+            "exports": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": [
+                "ModelComparisonView.swift",
+                "Views/ModelComparisonView.swift",
+                "Views/BenchmarkView.swift",
+                "Models/ComparisonMetric.swift",
+                "Models/ComparisonResult.swift",
+                "ViewModels/ModelComparisonViewModel.swift"
+              ]
+            }
+          }
+        },
+        "PdfSplitterView": {
+          "type": "object",
+          "properties": {
+            "dependencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": ["LLMServiceProvider"]
+            },
+            "exports": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": [
+                "PdfSplitterView.swift",
+                "Views/PdfSplitterView.swift",
+                "Components/SplitStrategySelector.swift"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "tests": {
+      "type": "object",
+      "properties": {
+        "LLMServiceProviderTests": {
+          "type": "object",
+          "properties": {
+            "dependencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": ["LLMServiceProvider"]
+            },
+            "testFiles": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "default": [
+                "TokenCounterTests.swift",
+                "TextChunkerTests.swift",
+                "LLMServiceProviderTests.swift"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

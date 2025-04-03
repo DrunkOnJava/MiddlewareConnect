@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/master.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Tests/MiddlewareConnectTests/DesignSystemTest.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/DesignSystemTest.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/DesignSystemTest.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/DesignSystemTest~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/DesignSystemTest.swiftdeps"
+  },
+  "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/Tests/MiddlewareConnectTests/MiddlewareConnectTests.swift": {
+    "dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/MiddlewareConnectTests.d",
+    "object": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/MiddlewareConnectTests.swift.o",
+    "swiftmodule": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/MiddlewareConnectTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/griffin/Desktop/RebasedCode/MiddlewareConnect/.build/arm64-apple-macosx/debug/MiddlewareConnectTests.build/MiddlewareConnectTests.swiftdeps"
+  }
+}

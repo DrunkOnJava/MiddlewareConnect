@@ -1,0 +1,78 @@
+/**
+ * @fileoverview LLM provider definitions
+ * @module LLMProvider
+ * 
+ * Created: 2025-04-02
+ * Last Modified: 2025-04-02
+ * 
+ * Dependencies:
+ * - Foundation
+ * 
+ * Exports:
+ * - LLMProvider enum
+ */
+
+import Foundation
+
+/// Enum representing different LLM providers
+public enum LLMProvider: String, Codable, Equatable, CaseIterable {
+    /// OpenAI provider (GPT models)
+    case openAI = "openai"
+    
+    /// Anthropic provider (Claude models)
+    case anthropic = "anthropic"
+    
+    /// Google provider (Gemini/PaLM models)
+    case google = "google"
+    
+    /// Meta provider (Llama models)
+    case meta = "meta"
+    
+    /// Local models (no API required)
+    case localModel = "local"
+    
+    /// Custom API endpoints
+    case customAPI = "custom"
+    
+    /// Human-readable display name
+    public var displayName: String {
+        switch self {
+        case .openAI:
+            return "OpenAI"
+        case .anthropic:
+            return "Anthropic"
+        case .google:
+            return "Google AI"
+        case .meta:
+            return "Meta AI"
+        case .localModel:
+            return "Local Model"
+        case .customAPI:
+            return "Custom API"
+        }
+    }
+    
+    /// Determine if this provider requires an API key
+    public var requiresApiKey: Bool {
+        switch self {
+        case .localModel:
+            return false
+        default:
+            return true
+        }
+    }
+    
+    /// Default base URL for this provider
+    public var defaultBaseUrl: String {
+        switch self {
+        case .openAI:
+            return "https://api.openai.com/v1"
+        case .anthropic:
+            return "https://api.anthropic.com/v1"
+        case .google:
+            return "https://generativelanguage.googleapis.com/v1"
+        case .meta, .localModel, .customAPI:
+            return ""
+        }
+    }
+}
